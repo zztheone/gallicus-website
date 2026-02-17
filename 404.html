@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page introuvable - Gallicus</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#000000">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { font-family: 'Inter', sans-serif; }
+  </style>
+</head>
+<body class="bg-black text-white min-h-screen flex flex-col">
+  <!-- Navigation -->
+  <nav class="flex items-center justify-between px-6 sm:px-8 lg:px-16 h-16 border-b border-neutral-800">
+    <a href="/" class="flex items-center gap-2 text-[15px] font-bold tracking-tight">
+      <img src="doc_reference/logo.png" alt="Gallicus" class="h-7">
+      <span class="hidden sm:inline">Gallicus</span>
+    </a>
+    <a href="/" class="text-[13px] text-neutral-400 hover:text-white transition-colors">Retour à l'accueil</a>
+  </nav>
+
+  <!-- Content -->
+  <main class="flex-1 flex items-center justify-center px-6">
+    <div class="text-center max-w-lg">
+      <p class="text-[120px] sm:text-[160px] font-light leading-none tracking-tighter text-neutral-800 mb-4">404</p>
+      <h1 class="text-2xl sm:text-3xl font-light mb-4 tracking-tight">Page introuvable</h1>
+      <p class="text-[15px] text-neutral-400 mb-8 leading-relaxed">La page que vous cherchez n'existe pas ou a été déplacée.</p>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-3">
+        <a href="/" class="inline-flex items-center gap-2 bg-white text-black text-[13px] px-5 py-2.5 rounded-full font-medium hover:bg-neutral-100 transition-colors">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-4 0h4"></path></svg>
+          Accueil
+        </a>
+        <a href="/agent-telephonique-ia" class="inline-flex items-center gap-2 border border-neutral-700 text-[13px] px-5 py-2.5 rounded-full font-medium hover:border-neutral-500 transition-colors">
+          Découvrir l'IA vocale
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="px-6 sm:px-8 lg:px-16 py-6 border-t border-neutral-800">
+    <p class="text-[12px] text-neutral-500 text-center">&copy; 2026 Gallicus. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>

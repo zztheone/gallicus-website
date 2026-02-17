@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'JetBrains Mono', monospace;
+      background: #0a0a0a;
+    }
+    .line-number { color: #4a4a5a; user-select: none; }
+    .keyword { color: #c678dd; }
+    .function { color: #61afef; }
+    .string { color: #98c379; }
+    .comment { color: #5c6370; font-style: italic; }
+    .variable { color: #e06c75; }
+    .operator { color: #56b6c2; }
+    .number { color: #d19a66; }
+    .type { color: #e5c07b; }
+    .property { color: #e06c75; }
+    .bracket { color: #abb2bf; }
+    .decorator { color: #d19a66; }
+    .tag { color: #e06c75; }
+    .attr { color: #d19a66; }
+    .punctuation { color: #abb2bf; }
+
+    .cursor {
+      display: inline-block;
+      width: 2px;
+      height: 18px;
+      background: #528bff;
+      animation: blink 1s step-end infinite;
+      vertical-align: text-bottom;
+      margin-left: 2px;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+    .active-line {
+      background: rgba(255,255,255,0.03);
+      border-left: 2px solid #528bff;
+    }
+
+    .glow {
+      box-shadow: 0 0 80px rgba(82, 139, 255, 0.08), 0 0 160px rgba(198, 120, 221, 0.05);
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-8">
+  <div class="w-full max-w-4xl">
+    <div class="rounded-xl overflow-hidden glow border border-[#1e1e2e]">
+      <!-- Title Bar -->
+      <div class="bg-[#1e1e2e] px-4 py-3 flex items-center justify-between">
+        <div class="flex items-center gap-2">
+          <div class="w-3 h-3 rounded-full bg-[#ff5f57]"></div>
+          <div class="w-3 h-3 rounded-full bg-[#febc2e]"></div>
+          <div class="w-3 h-3 rounded-full bg-[#28c840]"></div>
+        </div>
+        <div class="flex items-center gap-1 text-xs">
+          <span class="px-3 py-1 bg-white/[0.08] rounded-md text-white/70">analytics.ts</span>
+          <span class="px-3 py-1 rounded-md text-white/30">api.ts</span>
+          <span class="px-3 py-1 rounded-md text-white/30">config.ts</span>
+        </div>
+        <div class="text-xs text-white/20">@gallicus/core</div>
+      </div>
+
+      <!-- Code Content -->
+      <div class="bg-[#0a0a0a] p-6 text-sm leading-7 overflow-x-auto">
+<pre><span class="line-number"> 1  </span><span class="keyword">import</span> <span class="bracket">{</span> <span class="type">AutomationEngine</span><span class="punctuation">,</span> <span class="type">VoiceAgent</span> <span class="bracket">}</span> <span class="keyword">from</span> <span class="string">'@gallicus/core'</span><span class="punctuation">;</span>
+<span class="line-number"> 2  </span><span class="keyword">import</span> <span class="bracket">{</span> <span class="type">AnalyticsTracker</span> <span class="bracket">}</span> <span class="keyword">from</span> <span class="string">'@gallicus/analytics'</span><span class="punctuation">;</span>
+<span class="line-number"> 3  </span>
+<span class="line-number"> 4  </span><span class="comment">// Configuration du moteur d'automatisation Gallicus</span>
+<span class="line-number"> 5  </span><span class="keyword">const</span> <span class="variable">engine</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="type">AutomationEngine</span><span class="bracket">(</span><span class="bracket">{</span>
+<span class="line-number"> 6  </span>  <span class="property">region</span><span class="punctuation">:</span> <span class="string">'eu-west-3'</span><span class="punctuation">,</span>
+<span class="line-number"> 7  </span>  <span class="property">language</span><span class="punctuation">:</span> <span class="string">'fr-FR'</span><span class="punctuation">,</span>
+<span class="line-number"> 8  </span>  <span class="property">compliance</span><span class="punctuation">:</span> <span class="string">'RGPD'</span><span class="punctuation">,</span>
+<span class="line-number"> 9  </span><span class="bracket">}</span><span class="bracket">)</span><span class="punctuation">;</span>
+<span class="line-number">10  </span>
+<span class="line-number">11  </span><span class="comment">// Déploiement agent téléphonique IA</span>
+<span class="line-number">12  </span><span class="keyword">const</span> <span class="variable">agent</span> <span class="operator">=</span> <span class="keyword">await</span> <span class="type">VoiceAgent</span><span class="punctuation">.</span><span class="function">deploy</span><span class="bracket">(</span><span class="bracket">{</span>
+<span class="line-number">13  </span>  <span class="property">name</span><span class="punctuation">:</span> <span class="string">'Agent Gallicus'</span><span class="punctuation">,</span>
+<span class="line-number">14  </span>  <span class="property">capabilities</span><span class="punctuation">:</span> <span class="bracket">[</span><span class="string">'rdv'</span><span class="punctuation">,</span> <span class="string">'sav'</span><span class="punctuation">,</span> <span class="string">'qualification'</span><span class="bracket">]</span><span class="punctuation">,</span>
+<span class="line-number">15  </span>  <span class="property">available</span><span class="punctuation">:</span> <span class="string">'24/7'</span><span class="punctuation">,</span>
+<span class="line-number">16  </span>  <span class="property">costPerCall</span><span class="punctuation">:</span> <span class="number">0.15</span><span class="punctuation">,</span>
+<span class="line-number">17  </span><span class="bracket">}</span><span class="bracket">)</span><span class="punctuation">;</span>
+<span class="line-number">18  </span>
+<span class="line-number">19  </span><span class="comment">// Suivi des performances en temps réel</span>
+<span class="line-number">20  </span><span class="keyword">const</span> <span class="variable">tracker</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="type">AnalyticsTracker</span><span class="bracket">(</span><span class="variable">agent</span><span class="bracket">)</span><span class="punctuation">;</span>
+<span class="line-number">21  </span><span class="variable">tracker</span><span class="punctuation">.</span><span class="function">on</span><span class="bracket">(</span><span class="string">'call.completed'</span><span class="punctuation">,</span> <span class="bracket">(</span><span class="variable">data</span><span class="bracket">)</span> <span class="operator">=></span> <span class="bracket">{</span>
+<span class="line-number">22  </span>  <span class="variable">console</span><span class="punctuation">.</span><span class="function">log</span><span class="bracket">(</span><span class="string">`Résolution: </span><span class="operator">${</span><span class="variable">data</span><span class="punctuation">.</span><span class="property">resolved</span><span class="operator">}</span><span class="string"> | Durée: </span><span class="operator">${</span><span class="variable">data</span><span class="punctuation">.</span><span class="property">duration</span><span class="operator">}</span><span class="string">s`</span><span class="bracket">)</span><span class="punctuation">;</span>
+<span class="line-number">23  </span><span class="bracket">}</span><span class="bracket">)</span><span class="punctuation">;</span>
+<span class="line-number">24  </span>
+<span class="line-number">25  </span><span class="keyword">const</span> <span class="variable">stats</span> <span class="operator">=</span> <span class="keyword">await</span> <span class="variable">tracker</span><span class="punctuation">.</span><span class="function">getMetrics</span><span class="bracket">(</span><span class="bracket">)</span><span class="punctuation">;</span>
+<span class="line-number">26  </span><span class="variable">console</span><span class="punctuation">.</span><span class="function">log</span><span class="bracket">(</span><span class="string">`ROI: </span><span class="operator">${</span><span class="variable">stats</span><span class="punctuation">.</span><span class="property">roi</span><span class="operator">}</span><span class="string">% | Appels traités: </span><span class="operator">${</span><span class="variable">stats</span><span class="punctuation">.</span><span class="property">totalCalls</span><span class="operator">}</span><span class="string">`</span><span class="bracket">)</span><span class="punctuation">;</span><span class="cursor"></span>
+</pre>
+      </div>
+
+      <!-- Status Bar -->
+      <div class="bg-[#1e1e2e] px-4 py-1.5 flex items-center justify-between text-[10px] text-white/30">
+        <div class="flex items-center gap-4">
+          <span>main</span>
+          <span>TypeScript</span>
+        </div>
+        <div class="flex items-center gap-4">
+          <span>Ln 26, Col 71</span>
+          <span>UTF-8</span>
+          <span>Spaces: 2</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
