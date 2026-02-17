@@ -28,4 +28,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://www.gallicus.fr/sitemap.xml
+Sitemap: https://gallicus.org/sitemap.xml

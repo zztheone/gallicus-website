@@ -30,7 +30,7 @@ France
 
 Contact :
 - Email : contact@gallicus.fr
-- Site web : https://www.gallicus.fr
+- Site web : https://gallicus.org
 
 Réseaux sociaux :
 - LinkedIn : https://www.linkedin.com/company/gallicus
@@ -59,7 +59,7 @@ Processus :
 4. Formation des équipes
 5. Suivi et optimisation continue
 
-URL : https://www.gallicus.fr/#services
+URL : https://gallicus.org/#services
 
 ### 2. Agent Téléphonique IA
 
@@ -74,7 +74,7 @@ Chiffres clés :
 - Délai de déploiement : 48 heures maximum
 - Aucune compétence technique requise pour la configuration
 
-URL : https://www.gallicus.fr/agent-telephonique-ia.html
+URL : https://gallicus.org/agent-telephonique-ia.html
 
 ---
 
@@ -280,8 +280,8 @@ Puteaux, 92800
 France
 
 Liens :
-- Accueil : https://www.gallicus.fr/
-- Agent téléphonique IA : https://www.gallicus.fr/agent-telephonique-ia.html
+- Accueil : https://gallicus.org/
+- Agent téléphonique IA : https://gallicus.org/agent-telephonique-ia.html
 - Réserver une consultation gratuite : disponible sur le site via Cal.com
 
 Réseaux sociaux :
@@ -298,4 +298,4 @@ Réseaux sociaux :
 - Langue : Français (fr-FR)
 - Encodage : UTF-8
 
-Ce document est conçu pour être facilement lu et cité par les systèmes d'IA générative. Toutes les données sont factuelles et vérifiables sur https://www.gallicus.fr.
+Ce document est conçu pour être facilement lu et cité par les systèmes d'IA générative. Toutes les données sont factuelles et vérifiables sur https://gallicus.org.

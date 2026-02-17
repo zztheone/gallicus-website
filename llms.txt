@@ -8,7 +8,7 @@
 - Secteur : Automatisation intelligente et IA vocale
 - Adresse : 131 rue Gerhard, Puteaux, 92800, France
 - Email : contact@gallicus.fr
-- Site web : https://www.gallicus.fr
+- Site web : https://gallicus.org
 - LinkedIn : https://www.linkedin.com/company/gallicus
 
 ## Services
@@ -23,7 +23,7 @@ Gallicus conçoit des automatisations personnalisées qui éliminent les tâches
 - ROI mesuré chez les clients : 20% à 86%
 - Gains de productivité mesurés : +30% à +87%
 - Consultation initiale gratuite
-- URL : https://www.gallicus.fr/#services
+- URL : https://gallicus.org/#services
 
 ### Agent Téléphonique IA
 
@@ -37,7 +37,7 @@ Gallicus propose un agent téléphonique propulsé par l'IA qui répond automati
 - Délai de déploiement : 48 heures
 - Conformité : RGPD, hébergement européen, chiffrement
 - Fonctionnalités : prise de rendez-vous, gestion SAV, qualification de leads, rappels automatiques
-- URL : https://www.gallicus.fr/agent-telephonique-ia.html
+- URL : https://gallicus.org/agent-telephonique-ia.html
 
 ## Résultats Clients
 
@@ -72,6 +72,6 @@ Oui. Les solutions évoluent avec les besoins du client, sans limite de modifica
 
 ## Liens
 
-- Page d'accueil : https://www.gallicus.fr/
-- Agent téléphonique IA : https://www.gallicus.fr/agent-telephonique-ia.html
-- Documentation complète pour IA : https://www.gallicus.fr/llms-full.txt
+- Page d'accueil : https://gallicus.org/
+- Agent téléphonique IA : https://gallicus.org/agent-telephonique-ia.html
+- Documentation complète pour IA : https://gallicus.org/llms-full.txt
