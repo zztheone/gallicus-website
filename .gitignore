@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+
+# Dev screenshots & references
+*.png
+doc_reference/
+
+# Backups & test files
+*.bak*
+index_backup.html
+test-orbital.html
+take_screenshot.js
+
+# Documentation (dev only)
+CLAUDE.md
+SEO-DOCUMENTATION.md
+SEO-PROGRESS.md

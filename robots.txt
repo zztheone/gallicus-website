@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /node_modules/
+
+Sitemap: https://www.gallicus.fr/sitemap.xml
