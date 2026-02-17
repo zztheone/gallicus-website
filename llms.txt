@@ -9,7 +9,7 @@
 - Adresse : 131 rue Gerhard, Puteaux, 92800, France
 - Email : contact@gallicus.fr
 - Site web : https://gallicus.org
-- LinkedIn : https://www.linkedin.com/company/gallicus
+- LinkedIn : https://www.linkedin.com/company/gallicus-si
 
 ## Services
 
@@ -37,7 +37,7 @@ Gallicus propose un agent téléphonique propulsé par l'IA qui répond automati
 - Délai de déploiement : 48 heures
 - Conformité : RGPD, hébergement européen, chiffrement
 - Fonctionnalités : prise de rendez-vous, gestion SAV, qualification de leads, rappels automatiques
-- URL : https://gallicus.org/agent-telephonique-ia.html
+- URL : https://gallicus.org/agent-telephonique-ia
 
 ## Résultats Clients
 
@@ -73,5 +73,5 @@ Oui. Les solutions évoluent avec les besoins du client, sans limite de modifica
 ## Liens
 
 - Page d'accueil : https://gallicus.org/
-- Agent téléphonique IA : https://gallicus.org/agent-telephonique-ia.html
+- Agent téléphonique IA : https://gallicus.org/agent-telephonique-ia
 - Documentation complète pour IA : https://gallicus.org/llms-full.txt

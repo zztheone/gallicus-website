@@ -33,8 +33,7 @@ Contact :
 - Site web : https://gallicus.org
 
 Réseaux sociaux :
-- LinkedIn : https://www.linkedin.com/company/gallicus
-- Twitter : @gallicus_fr
+- LinkedIn : https://www.linkedin.com/company/gallicus-si
 
 ---
 
@@ -74,7 +73,7 @@ Chiffres clés :
 - Délai de déploiement : 48 heures maximum
 - Aucune compétence technique requise pour la configuration
 
-URL : https://gallicus.org/agent-telephonique-ia.html
+URL : https://gallicus.org/agent-telephonique-ia
 
 ---
 
@@ -281,12 +280,11 @@ France
 
 Liens :
 - Accueil : https://gallicus.org/
-- Agent téléphonique IA : https://gallicus.org/agent-telephonique-ia.html
+- Agent téléphonique IA : https://gallicus.org/agent-telephonique-ia
 - Réserver une consultation gratuite : disponible sur le site via Cal.com
 
 Réseaux sociaux :
-- LinkedIn : https://www.linkedin.com/company/gallicus
-- Twitter : @gallicus_fr
+- LinkedIn : https://www.linkedin.com/company/gallicus-si
 
 ---
 
