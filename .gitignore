@@ -1,9 +1,14 @@
 node_modules/
 .DS_Store
 
-# Dev screenshots & references
-*.png
-doc_reference/
+# Dev screenshots (root level only)
+/screenshot_*.png
+/*_screenshot.png
+/section_*.png
+/r2_*.png
+/mobile_*.png
+/gallicus_screenshot.png
+/index_screenshot.png
 
 # Backups & test files
 *.bak*
