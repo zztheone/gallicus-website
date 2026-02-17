@@ -271,6 +271,10 @@
       background: #000;
       margin: 0;
     }
+    html, body {
+      overflow-x: hidden;
+      overscroll-behavior-x: none;
+    }
     html { scroll-behavior: smooth; }
 
     /* Screen Reader Only (Accessibility) */
@@ -1112,7 +1116,7 @@
 
   <!-- Hero Section -->
   <main id="main-content" role="main">
-  <section class="relative px-6 sm:px-8 lg:px-16 pt-20 sm:pt-28 pb-16 sm:pb-20 overflow-hidden min-h-screen flex flex-col justify-center">
+  <section class="relative px-6 sm:px-8 lg:px-16 pt-12 sm:pt-28 pb-16 sm:pb-20 overflow-hidden min-h-[calc(100vh-4rem)] flex flex-col justify-center">
     <!-- Dotted Surface Background -->
     <div id="dotted-surface-container" class="pointer-events-none absolute inset-0 -z-10 opacity-50"></div>
 
@@ -2305,14 +2309,24 @@
       const AUTO_PLAY_INTERVAL = 5000; // 5 secondes
       let autoPlayTimer;
 
-      // Adjust stack height to match active card
+      // Adjust stack height to tallest card (prevents layout shifts)
       function updateStackHeight() {
         const stack = document.querySelector('.testimonial-stack');
         if (!stack) return;
-        const activeCard = stack.querySelector('.testimonial-card.active');
-        if (activeCard) {
-          stack.style.minHeight = activeCard.scrollHeight + 'px';
-        }
+        let maxHeight = 0;
+        testimonialCards.forEach(card => {
+          const wasHidden = card.style.opacity === '0';
+          if (wasHidden) {
+            card.style.visibility = 'hidden';
+            card.style.opacity = '1';
+          }
+          maxHeight = Math.max(maxHeight, card.scrollHeight);
+          if (wasHidden) {
+            card.style.visibility = '';
+            card.style.opacity = '0';
+          }
+        });
+        stack.style.minHeight = maxHeight + 'px';
       }
 
       function showTestimonial(index) {
@@ -2402,6 +2416,8 @@
 
   <!-- Vercel Analytics -->
   <script defer src="/_vercel/insights/script.js"></script>
+  <!-- Vercel Speed Insights -->
+  <script defer src="/_vercel/speed-insights/script.js"></script>
 
 </body>
 </html>
