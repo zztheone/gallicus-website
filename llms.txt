@@ -1,0 +1,77 @@
+# Gallicus
+
+> Gallicus est une agence française d'automatisation intelligente et d'IA vocale, basée à Puteaux (92). Elle conçoit des solutions sur mesure pour optimiser les processus métier des PME françaises : automatisation de workflows et agent téléphonique IA.
+
+## Informations Entreprise
+
+- Nom : Gallicus
+- Secteur : Automatisation intelligente et IA vocale
+- Adresse : 131 rue Gerhard, Puteaux, 92800, France
+- Email : contact@gallicus.fr
+- Site web : https://www.gallicus.fr
+- LinkedIn : https://www.linkedin.com/company/gallicus
+
+## Services
+
+### Automatisation sur Mesure
+
+Gallicus conçoit des automatisations personnalisées qui éliminent les tâches répétitives et optimisent les processus métier.
+
+- Délai de déploiement : 2 à 6 semaines selon la complexité
+- Méthodologie : Audit, Conception, Déploiement, Formation, Suivi
+- Intégrations : HubSpot, Salesforce, Google Calendar, Slack, Make, n8n, Cal.com
+- ROI mesuré chez les clients : 20% à 86%
+- Gains de productivité mesurés : +30% à +87%
+- Consultation initiale gratuite
+- URL : https://www.gallicus.fr/#services
+
+### Agent Téléphonique IA
+
+Gallicus propose un agent téléphonique propulsé par l'IA qui répond automatiquement aux appels entrants.
+
+- Disponibilité : 24h/24, 7j/7
+- Taux de réponse : 100%
+- Capacité prouvée : 3 200+ appels traités par mois
+- Coût moyen par appel : 0,15 EUR
+- Taux de résolution : 89%
+- Délai de déploiement : 48 heures
+- Conformité : RGPD, hébergement européen, chiffrement
+- Fonctionnalités : prise de rendez-vous, gestion SAV, qualification de leads, rappels automatiques
+- URL : https://www.gallicus.fr/agent-telephonique-ia.html
+
+## Résultats Clients
+
+### Alain, fondateur d'EcomSky (e-commerce)
+- ROI : 86%
+- Gain de productivité : +80%
+- Temps libéré : passé de 5 jours à moins d'1 jour sur les tâches administratives
+
+### Karine, responsable administrative chez ECCLA
+- ROI : 80%
+- Gain de productivité : +87%
+- Élimination des erreurs de saisie et des tâches chronophages
+
+### Ludovic, DAF du groupe Signalisation Développement
+- ROI : 20%
+- Gain de productivité : +30%
+- Amélioration de la fiabilité des données financières
+
+## Questions Fréquentes
+
+Combien de temps prend une automatisation ?
+Entre 2 et 6 semaines selon la complexité. L'agent téléphonique IA se déploie en 48 heures.
+
+Quels sont les coûts ?
+Tarifs adaptés à chaque projet. Consultation gratuite pour évaluer les besoins et fournir un devis.
+
+Les données sont-elles sécurisées ?
+Oui. Gallicus respecte le RGPD, héberge les données en France et applique un chiffrement de bout en bout.
+
+Peut-on modifier les automatisations après déploiement ?
+Oui. Les solutions évoluent avec les besoins du client, sans limite de modifications.
+
+## Liens
+
+- Page d'accueil : https://www.gallicus.fr/
+- Agent téléphonique IA : https://www.gallicus.fr/agent-telephonique-ia.html
+- Documentation complète pour IA : https://www.gallicus.fr/llms-full.txt

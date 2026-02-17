@@ -1,0 +1,301 @@
+# Gallicus - Documentation Complète
+
+> Gallicus est une agence française d'automatisation intelligente et d'IA vocale, basée à Puteaux (92). Elle conçoit des solutions sur mesure pour optimiser les processus métier des PME françaises : automatisation de workflows et agent téléphonique IA.
+
+## Table des Matières
+
+1. Informations Entreprise
+2. Services
+3. Méthodologie
+4. Agent Téléphonique IA - Détails
+5. Résultats Clients
+6. Intégrations Techniques
+7. Sécurité et Conformité
+8. Questions Fréquentes
+9. Contact
+
+---
+
+## Informations Entreprise
+
+Nom : Gallicus
+Type : Agence d'automatisation intelligente et IA vocale
+Marché cible : PME françaises
+Secteurs servis : E-commerce, Administration, Finance, Services, Restauration, Immobilier
+
+Adresse :
+131 rue Gerhard
+Puteaux, 92800
+France
+
+Contact :
+- Email : contact@gallicus.fr
+- Site web : https://www.gallicus.fr
+
+Réseaux sociaux :
+- LinkedIn : https://www.linkedin.com/company/gallicus
+- Twitter : @gallicus_fr
+
+---
+
+## Services
+
+### 1. Automatisation sur Mesure
+
+Gallicus conçoit des automatisations personnalisées qui éliminent les tâches répétitives et optimisent les processus métier des PME.
+
+Délai de déploiement : 2 à 6 semaines selon la complexité.
+
+Bénéfices mesurés chez les clients :
+- Augmentation de productivité : +30% à +87%
+- ROI : 20% à 86%
+- Réduction significative du temps consacré aux tâches répétitives
+- Élimination des erreurs de saisie manuelle
+
+Processus :
+1. Audit et diagnostic des processus existants
+2. Conception sur mesure de la solution
+3. Déploiement progressif et sécurisé
+4. Formation des équipes
+5. Suivi et optimisation continue
+
+URL : https://www.gallicus.fr/#services
+
+### 2. Agent Téléphonique IA
+
+Gallicus propose un agent téléphonique propulsé par l'intelligence artificielle qui répond automatiquement aux appels entrants 24h/24.
+
+Chiffres clés :
+- Disponibilité : 24 heures sur 24, 7 jours sur 7
+- Taux de réponse : 100% des appels entrants
+- Capacité prouvée : 3 200+ appels traités par mois
+- Coût moyen par appel : 0,15 EUR
+- Taux de résolution : 89% (1 110 appels résolus sur 1 247)
+- Délai de déploiement : 48 heures maximum
+- Aucune compétence technique requise pour la configuration
+
+URL : https://www.gallicus.fr/agent-telephonique-ia.html
+
+---
+
+## Méthodologie
+
+Gallicus applique une méthodologie structurée en 5 étapes pour tous ses projets.
+
+### Étape 1 : Audit et Diagnostic
+Analyse approfondie des processus existants du client. Identification des tâches automatisables. Calcul du ROI potentiel et des gains de productivité attendus.
+
+### Étape 2 : Conception sur Mesure
+Développement d'une solution adaptée au métier et au contexte spécifique du client. Validation avec les équipes métier avant développement.
+
+### Étape 3 : Déploiement
+Mise en production progressive et sécurisée. Tests approfondis. Délai : 2 à 6 semaines pour l'automatisation sur mesure, 48 heures pour l'agent téléphonique IA.
+
+### Étape 4 : Formation
+Formation des équipes à l'utilisation des outils déployés. Documentation fournie. Support pendant la phase d'adoption.
+
+### Étape 5 : Suivi et Optimisation
+Amélioration continue des performances. Tableaux de bord pour suivi en temps réel. Ajustements et extensions possibles à tout moment.
+
+---
+
+## Agent Téléphonique IA - Détails
+
+### Contexte marché
+78% des consommateurs choisissent la première entreprise qui décroche le téléphone. L'agent IA Gallicus garantit un taux de réponse de 100%, 24h/24.
+
+### Fonctionnalités
+
+1. Prise de rendez-vous automatique
+   - Consultation d'agendas en temps réel (Google Calendar, Cal.com)
+   - Proposition de créneaux disponibles au client
+   - Confirmation automatique par email et SMS
+   - Synchronisation bidirectionnelle avec les calendriers
+
+2. Gestion SAV (Service Après-Vente)
+   - Utilisation de la base de connaissances de l'entreprise
+   - Réponses contextuelles aux questions fréquentes
+   - Création automatique de tickets dans le CRM (HubSpot, Salesforce)
+   - Escalade vers un humain si nécessaire
+
+3. Qualification de leads
+   - Collecte d'informations structurées (nom, entreprise, besoin, budget)
+   - Enrichissement automatique du CRM
+   - Notification de l'équipe commerciale en temps réel
+
+4. Rappels automatiques
+   - Planification de rappels différés
+   - Suivi des demandes non résolues
+   - Gestion des appels hors horaires d'ouverture
+
+### Tableau de bord
+
+L'agent téléphonique est accompagné d'un dashboard qui fournit :
+- Nombre d'appels traités en temps réel
+- Taux de résolution (actions réussies / total appels)
+- Coût par appel calculé automatiquement
+- Transcriptions complètes des conversations
+- Analyse des intentions détectées par l'IA
+- Actions automatiques déclenchées (emails, SMS, rendez-vous)
+
+### Cas d'usage sectoriels
+
+Restauration : Réservations 24h/24, gestion automatique des annulations, rappels de confirmation.
+
+Agence immobilière : Qualification de leads 24h/24, prise de rendez-vous de visite, envoi automatique de fiches de biens.
+
+E-commerce : Support client instantané, suivi de commandes, gestion des retours et réclamations.
+
+---
+
+## Résultats Clients
+
+### Cas 1 : Alain, fondateur d'EcomSky (E-commerce)
+
+Problématique : Gestion manuelle chronophage des commandes et du service client, 5 jours de travail par semaine consacrés aux tâches administratives.
+
+Solution déployée : Automatisation du traitement des commandes et des réponses SAV de niveau 1. Intégration avec le CRM et la plateforme e-commerce.
+
+Résultats mesurés :
+- ROI : 86%
+- Gain de productivité : +80%
+- Temps libéré : passé de 5 jours à moins d'1 jour
+- Plus de 1 000 articles optimisés automatiquement
+
+Témoignage : "J'ai été impressionné par la compréhension rapide de notre besoin et la vitesse de déploiement. Grâce à Gallicus, je suis passé de 5 jours de travail à moins d'une journée pour produire plus de 1 000 articles optimisés."
+
+### Cas 2 : Karine, responsable administrative chez ECCLA
+
+Problématique : Tâches administratives répétitives et chronophages, erreurs de saisie récurrentes.
+
+Solution déployée : Automatisation des processus administratifs et workflows de validation.
+
+Résultats mesurés :
+- ROI : 80%
+- Gain de productivité : +87%
+- Élimination des erreurs de saisie
+- Travail réduit à une seule journée de contrôle
+
+Témoignage : "Gallicus a permis une suppression de tâches rébarbatives et chronophage, l'élimination d'erreurs liées à la saisie des données et ils m'ont redonné le sourire ! Ce travail ne prend plus qu'une seule journée de contrôle."
+
+### Cas 3 : Ludovic, DAF du groupe Signalisation Développement
+
+Problématique : Processus financiers manuels, rapports chronophages, besoin d'audit IT.
+
+Solution déployée : Automatisation des rapports financiers, consolidation automatique des données, tableaux de bord en temps réel.
+
+Résultats mesurés :
+- ROI : 20%
+- Gain de productivité : +30%
+- Amélioration de la fiabilité des données financières
+- Collaboration continue au quotidien
+
+Témoignage : "Une communication fluide, une écoute réelle, et une compréhension parfaite de nos problématiques. L'analyse a permis de révéler des axes d'amélioration majeurs et nous continuons de travailler ensemble au quotidien."
+
+---
+
+## Intégrations Techniques
+
+Gallicus s'intègre nativement avec les outils les plus utilisés par les PME françaises.
+
+CRM et Ventes :
+- HubSpot : création de contacts, tickets, deals
+- Salesforce : synchronisation bidirectionnelle
+- Pipedrive : gestion de pipeline
+
+Calendrier et Rendez-vous :
+- Google Calendar : consultation et création d'événements
+- Cal.com : réservation de créneaux
+- Calendly : intégration de disponibilités
+
+Communication :
+- Email : envoi automatique (Gmail, Outlook, SMTP)
+- SMS : notifications et confirmations
+- Slack : alertes et notifications d'équipe
+
+Automatisation et Workflows :
+- Make (ex-Integromat) : workflows complexes
+- n8n : automatisation open-source
+- Zapier : connexions inter-applications
+
+Autres :
+- Notion : documentation et bases de connaissances
+- Airtable : bases de données structurées
+- Google Sheets : export et synchronisation de données
+
+---
+
+## Sécurité et Conformité
+
+### RGPD
+
+Gallicus est pleinement conforme au RGPD (Règlement Général sur la Protection des Données).
+
+Mesures en place :
+- Hébergement des données en Europe (France prioritairement)
+- Chiffrement des données en transit et au repos
+- Purge automatique ou à la demande des données sensibles
+- Isolation multi-tenant (séparation stricte des données entre clients)
+- Accès restreint et journalisé
+- Droit à l'oubli respecté
+- Consentement explicite pour le traitement des données
+
+### Sécurité Technique
+
+- Chiffrement : TLS 1.3 pour toutes les communications
+- Architecture : isolation multi-tenant avec Row-Level Security
+- Monitoring : surveillance continue des systèmes
+- Sauvegardes : quotidiennes avec rétention configurable
+
+---
+
+## Questions Fréquentes
+
+### Combien de temps prend une automatisation ?
+
+Selon la complexité du projet, une automatisation peut être déployée entre 2 et 6 semaines. Gallicus commence toujours par un audit pour évaluer précisément les délais et la faisabilité. L'agent téléphonique IA se déploie en 48 heures maximum.
+
+### Quels sont les coûts ?
+
+Les tarifs sont adaptés à chaque projet selon la complexité et les besoins. Gallicus propose une consultation gratuite pour évaluer les besoins, calculer le ROI potentiel et fournir un devis détaillé. L'agent téléphonique IA coûte en moyenne 0,15 EUR par appel.
+
+### Les données sont-elles sécurisées ?
+
+Oui. Gallicus applique les meilleures pratiques de sécurité et respecte strictement le RGPD. Les données sont hébergées en France, protégées par un chiffrement de bout en bout et une isolation multi-tenant. La purge des données est possible à tout moment sur demande.
+
+### Peut-on modifier les automatisations après déploiement ?
+
+Oui. Les solutions Gallicus sont conçues pour évoluer avec les besoins du client. Il est possible d'ajuster les paramètres, d'étendre les fonctionnalités, d'ajouter de nouvelles intégrations et de modifier les workflows à tout moment.
+
+---
+
+## Contact
+
+Email : contact@gallicus.fr
+
+Adresse :
+Gallicus
+131 rue Gerhard
+Puteaux, 92800
+France
+
+Liens :
+- Accueil : https://www.gallicus.fr/
+- Agent téléphonique IA : https://www.gallicus.fr/agent-telephonique-ia.html
+- Réserver une consultation gratuite : disponible sur le site via Cal.com
+
+Réseaux sociaux :
+- LinkedIn : https://www.linkedin.com/company/gallicus
+- Twitter : @gallicus_fr
+
+---
+
+## Métadonnées
+
+- Version : 1.0
+- Dernière mise à jour : 2026-02-17
+- Format : llms-full.txt (standard llms.txt v1.1.0)
+- Langue : Français (fr-FR)
+- Encodage : UTF-8
+
+Ce document est conçu pour être facilement lu et cité par les systèmes d'IA générative. Toutes les données sont factuelles et vérifiables sur https://www.gallicus.fr.
