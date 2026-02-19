@@ -58,7 +58,7 @@ Processus :
 4. Formation des équipes
 5. Suivi et optimisation continue
 
-URL : https://gallicus.org/#services
+URL : https://gallicus.org/#automatisation-sur-mesure
 
 ### 2. Agent Téléphonique IA
 
@@ -71,7 +71,7 @@ Chiffres clés :
 - Coût moyen par appel : 0,15 EUR
 - Taux de résolution : 89% (1 110 appels résolus sur 1 247)
 - Délai de déploiement : 48 heures maximum
-- Aucune compétence technique requise pour la configuration
+- Prise en main simple, sans prérequis technique pour la configuration
 
 URL : https://gallicus.org/agent-telephonique-ia
 

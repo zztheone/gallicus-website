@@ -111,7 +111,8 @@
       "@type": "Country",
       "name": "France"
     },
-    "availableLanguage": "French"
+    "availableLanguage": "French",
+    "url": "https://gallicus.org/#automatisation-sur-mesure"
   }
   </script>
 
@@ -221,16 +222,31 @@
       {
         "@type": "ListItem",
         "position": 4,
+        "name": "Automatisation sur mesure",
+        "item": "https://gallicus.org/#automatisation-sur-mesure"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
         "name": "Bénéfices",
         "item": "https://gallicus.org/#benefices"
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 6,
         "name": "FAQ",
         "item": "https://gallicus.org/#faq"
       }
     ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "name": ["Accueil", "Automatisation sur mesure", "Agent Téléphonique IA", "Bénéfices", "FAQ"],
+    "url": ["https://gallicus.org/", "https://gallicus.org/#automatisation-sur-mesure", "https://gallicus.org/agent-telephonique-ia", "https://gallicus.org/#benefices", "https://gallicus.org/#faq"]
   }
   </script>
 
@@ -1286,7 +1302,7 @@
       </div>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
         <!-- Service 1 - Automatisation sur mesure -->
-        <div class="service-card-wrapper animate-on-scroll">
+        <div id="automatisation-sur-mesure" class="service-card-wrapper animate-on-scroll">
           <div class="service-card-glow"></div>
           <div class="service-card group">
             <!-- Three.js Background -->
@@ -2108,7 +2124,7 @@
         <div>
           <p class="text-[11px] font-bold uppercase tracking-[0.05em] text-neutral-400 mb-3">Solutions</p>
           <ul class="space-y-2 text-[12px] text-neutral-500">
-            <li><a href="#services" class="hover:text-white transition-colors">Automatisation</a></li>
+            <li><a href="#automatisation-sur-mesure" class="hover:text-white transition-colors">Automatisation sur mesure</a></li>
             <li><a href="agent-telephonique-ia" class="hover:text-white transition-colors">IA vocale</a></li>
             <li><a href="#benefices" class="hover:text-white transition-colors">Bénéfices</a></li>
           </ul>
